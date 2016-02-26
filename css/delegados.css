@@ -1,0 +1,27 @@
+.navbar-inverse .navbar-toggle {
+    border-color: #ec3434;
+}
+.navbar-inverse {
+    background-color: #f0f52b;
+    border-color: #e91414;
+}
+
+.btn-primary:hover {
+    color: #ffffff;
+    background-color: #e91414;
+    border-color: #e91414;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #ec3434;
+    border-color: #ec3434;
+}
+
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+    background-color: #e03434;
+}
+
+.jumbotron h1, .jumbotron .h1 {
+    font-size: 48px;
+}
